@@ -9,4 +9,5 @@ following tools were used with the aid of this design.
 This project is from Codecademy Full-Stack Engineer course.
 ## Other Information
 By: Alex K
+
 Date: 05/11/2021
